@@ -5,7 +5,8 @@
 #include <string.h>
 #include <sys/socket.h>
 #include <unistd.h>
-#define PORT 8088
+//#define PORT 8088
+#define PORT 4277
 
 int main(int argc, char const* argv[])
 {
